@@ -1,0 +1,15 @@
+{
+  "name": "create-adk-agent",
+  "version": "1.0.0",
+  "description": "Interactive one-command scaffold for Google ADK (Agent Development Kit) projects",
+  "bin": {
+    "create-adk-agent": "./bin/create-adk-agent.js"
+  },
+  "files": ["bin/", "template/"],
+  "scripts": {
+    "test": "node bin/create-adk-agent.js --help || true"
+  },
+  "keywords": ["google-adk", "adk", "agent", "scaffold", "create", "gemini", "ai"],
+  "author": "unrealandychan",
+  "license": "MIT"
+}

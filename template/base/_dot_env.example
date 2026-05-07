@@ -1,0 +1,5 @@
+# {{PROJECT_NAME}} environment config
+# Provider: {{PROVIDER_KEY}}
+{{ENV_VARS_COMMENT}}
+
+{{ENV_CONTENT}}
